@@ -1,0 +1,45 @@
+@options
+@packages
+-classpath
+'C:/Users/muril/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.6.0/junit-jupiter-api-5.6.0.jar;C:/Users/muril/.m2/repository/org/apiguardian/apiguardian-api/1.1.0/apiguardian-api-1.1.0.jar;C:/Users/muril/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar;C:/Users/muril/.m2/repository/org/junit/platform/junit-platform-commons/1.6.0/junit-platform-commons-1.6.0.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'22'
+-sourcepath
+'C:/Users/muril/Documents/NetBeansProjects/Calculadora_teste-main/Exercicio1/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/muril/Documents/NetBeansProjects/Calculadora_teste-main/Exercicio1/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Exercicio1 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Exercicio1 1.0-SNAPSHOT API'
+Calculadora
+C:\Users\muril\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.6.0\junit-jupiter-api-5.6.0.jar = 1711329100440
+C:\Users\muril\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar = 1711329100522
+C:\Users\muril\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar = 1711329100546
+C:\Users\muril\.m2\repository\org\junit\platform\junit-platform-commons\1.6.0\junit-platform-commons-1.6.0.jar = 1711329100508
+C:\Users\muril\Documents\NetBeansProjects\Calculadora_teste-main\Exercicio1\src\main\java = 1711416641657
+C:\Users\muril\Documents\NetBeansProjects\Calculadora_teste-main\Exercicio1\target\site\apidocs\allclasses-index.html = 1711417005023
+C:\Users\muril\Documents\NetBeansProjects\Calculadora_teste-main\Exercicio1\target\site\apidocs\allpackages-index.html = 1711417005023
+C:\Users\muril\Documents\NetBeansProjects\Calculadora_teste-main\Exercicio1\target\site\apidocs\element-list = 1711417004969
+C:\Users\muril\Documents\NetBeansProjects\Calculadora_teste-main\Exercicio1\target\site\apidocs\help-doc.html = 1711417005059
+C:\Users\muril\Documents\NetBeansProjects\Calculadora_teste-main\Exercicio1\target\site\apidocs\index-all.html = 1711417005043
+C:\Users\muril\Documents\NetBeansProjects\Calculadora_teste-main\Exercicio1\target\site\apidocs\index.html = 1711417005053
+C:\Users\muril\Documents\NetBeansProjects\Calculadora_teste-main\Exercicio1\target\site\apidocs\member-search-index.js = 1711417005033
+C:\Users\muril\Documents\NetBeansProjects\Calculadora_teste-main\Exercicio1\target\site\apidocs\module-search-index.js = 1711417005028
+C:\Users\muril\Documents\NetBeansProjects\Calculadora_teste-main\Exercicio1\target\site\apidocs\overview-tree.html = 1711417005012
+C:\Users\muril\Documents\NetBeansProjects\Calculadora_teste-main\Exercicio1\target\site\apidocs\package-search-index.js = 1711417005030
+C:\Users\muril\Documents\NetBeansProjects\Calculadora_teste-main\Exercicio1\target\site\apidocs\search.html = 1711417005048
+C:\Users\muril\Documents\NetBeansProjects\Calculadora_teste-main\Exercicio1\target\site\apidocs\tag-search-index.js = 1711417005033
+C:\Users\muril\Documents\NetBeansProjects\Calculadora_teste-main\Exercicio1\target\site\apidocs\type-search-index.js = 1711417005031
