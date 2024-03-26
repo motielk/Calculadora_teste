@@ -1,0 +1,39 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'22'
+-sourcepath
+'C:/Users/muril/Documents/NetBeansProjects/Calculadora_teste-main1/Exercicio1/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/muril/Documents/NetBeansProjects/Calculadora_teste-main1/Exercicio1/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Exercicio1 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Exercicio1 1.0-SNAPSHOT API'
+Calculadora
+C:\Users\muril\Documents\NetBeansProjects\Calculadora_teste-main1\Exercicio1\src\main\java = 1711414226055
+C:\Users\muril\Documents\NetBeansProjects\Calculadora_teste-main1\Exercicio1\target\site\apidocs\allclasses-index.html = 1711417060406
+C:\Users\muril\Documents\NetBeansProjects\Calculadora_teste-main1\Exercicio1\target\site\apidocs\allpackages-index.html = 1711417060409
+C:\Users\muril\Documents\NetBeansProjects\Calculadora_teste-main1\Exercicio1\target\site\apidocs\element-list = 1711417060350
+C:\Users\muril\Documents\NetBeansProjects\Calculadora_teste-main1\Exercicio1\target\site\apidocs\help-doc.html = 1711417060439
+C:\Users\muril\Documents\NetBeansProjects\Calculadora_teste-main1\Exercicio1\target\site\apidocs\index-all.html = 1711417060428
+C:\Users\muril\Documents\NetBeansProjects\Calculadora_teste-main1\Exercicio1\target\site\apidocs\index.html = 1711417060434
+C:\Users\muril\Documents\NetBeansProjects\Calculadora_teste-main1\Exercicio1\target\site\apidocs\member-search-index.js = 1711417060416
+C:\Users\muril\Documents\NetBeansProjects\Calculadora_teste-main1\Exercicio1\target\site\apidocs\module-search-index.js = 1711417060411
+C:\Users\muril\Documents\NetBeansProjects\Calculadora_teste-main1\Exercicio1\target\site\apidocs\overview-tree.html = 1711417060395
+C:\Users\muril\Documents\NetBeansProjects\Calculadora_teste-main1\Exercicio1\target\site\apidocs\package-search-index.js = 1711417060412
+C:\Users\muril\Documents\NetBeansProjects\Calculadora_teste-main1\Exercicio1\target\site\apidocs\search.html = 1711417060431
+C:\Users\muril\Documents\NetBeansProjects\Calculadora_teste-main1\Exercicio1\target\site\apidocs\tag-search-index.js = 1711417060419
+C:\Users\muril\Documents\NetBeansProjects\Calculadora_teste-main1\Exercicio1\target\site\apidocs\type-search-index.js = 1711417060414
